@@ -1,0 +1,8 @@
+name: patient
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+prefix: //anaconda3/envs/patient
